@@ -1,0 +1,10 @@
+ID | Name | Image Path
+--------------------------------------------------
+dea00008-307c-4280-a16d-44e78f1a7bc2 | MZ Solar Sensor Double Strip Wall Lamp | products/af139b_bd87413ecc824e7a87deb6c84c5a3799mv2_bmCS2LW.avif
+eb9bf898-9275-4911-9129-d22a48b38b6e | MAX Power Rechargable Led Bulb | products/30w-max-power-rechargeable-led-bulb_C8fWk4j.jpeg
+4dc3a6fc-4e3f-4a96-92cd-71c384370ada | Solar Sensor Camera Light | products/images.jpg
+ffc6dfa1-409a-400e-99da-d3bf39946af1 | ULTRAMAX Rechargable Led Bulb | products/led-solar-lantern_mKgYmyQ.jpeg
+410c225a-131c-414c-a13d-0986eb66c641 | Jio Star Emergency Inverter Led Bulb | products/Screenshot_2026-03-14_161106.png
+5d9d1fa2-399d-4e60-9b66-240878fd870b | Parax Multi Colour Led | products/516NhosNedL_1024x_33WN8Aj.jpg
+47927709-2602-4469-9cb6-959c68e1da18 | MZ solar sensor wall lamps | products/51yhwO-CRL._AC_UF10001000_QL80_.jpg
+5abbc53e-3489-4fd9-8f9e-89dea094d8d6 | Metal Stone Rechargable Led | products/iBbqF9Hu.jpeg

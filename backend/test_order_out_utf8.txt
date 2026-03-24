@@ -1,0 +1,3 @@
+Last Order ID: 77
+Item: MZ Solar Sensor Double Strip Wall Lamp
+Image API output: https://bzjnhwvzmmvnvcbzhvwu.supabase.co/storage/v1/s3/brightify-media/products/af139b_bd87413ecc824e7a87deb6c84c5a3799mv2_bmCS2LW.avif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=74d7636ff7ac29ced637d100410bb1b7%2F20260318%2Fap-southeast-2%2Fs3%2Faws4_request&X-Amz-Date=20260318T093308Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=ee773f3e74d94af5ca6502e92bbdfb79b5a2267f7d94822e25af3a81604f0528

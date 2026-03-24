@@ -1,0 +1,32 @@
+AWS_S3_ENDPOINT_URL: https://bzjnhwvzmmvnvcbzhvwu.supabase.co/storage/v1/s3
+AWS_S3_CUSTOM_DOMAIN: bzjnhwvzmmvnvcbzhvwu.supabase.co/storage/v1/object/public/brightify-media
+AWS_STORAGE_BUCKET_NAME: brightify-media
+--------------------------------------------------
+Product: ULTRAMAX Rechargable Led Bulb
+  DB Path: led-solar-lantern_mKgYmyQ.jpeg
+  Generated URL: https://bzjnhwvzmmvnvcbzhvwu.supabase.co/storage/v1/object/public/brightify-media/led-solar-lantern_mKgYmyQ.jpeg
+--------------------
+Product: MAX Power Rechargable Led Bulb
+  DB Path: products/30w-max-power-rechargeable-led-bulb_C8fWk4j.jpeg
+  Generated URL: https://bzjnhwvzmmvnvcbzhvwu.supabase.co/storage/v1/object/public/brightify-media/products/30w-max-power-rechargeable-led-bulb_C8fWk4j.jpeg
+--------------------
+Product: Premium 12W LED Bulb
+  DB Path: https://picsum.photos/seed/light1/800/600
+  Generated URL: https://picsum.photos/seed/light1/800/600
+--------------------
+Product: Smart LED Strip Lights (16.4ft)
+  DB Path: https://picsum.photos/seed/light15/800/600
+  Generated URL: https://picsum.photos/seed/light15/800/600
+--------------------
+Product: Rattan Woven Lampshade
+  DB Path: https://picsum.photos/seed/light26/800/600
+  Generated URL: https://picsum.photos/seed/light26/800/600
+--------------------
+Product: Waterproof LED Floodlight
+  DB Path: https://picsum.photos/seed/light6/800/600
+  Generated URL: https://picsum.photos/seed/light6/800/600
+--------------------
+Product: Heavy Duty Festoon Lights
+  DB Path: https://picsum.photos/seed/light31/800/600
+  Generated URL: https://picsum.photos/seed/light31/800/600
+--------------------

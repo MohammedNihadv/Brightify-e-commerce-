@@ -1,0 +1,37 @@
+﻿{
+  "version": 2,
+  "builds": [
+    {
+      "src": "frontend/package.json",
+      "use": "@vercel/static-build",
+      "config": { "distDir": "dist" }
+    },
+    {
+      "src": "backend/backend/wsgi.py",
+      "use": "@vercel/python",
+      "config": { "maxDuration": 10 }
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "backend/backend/wsgi.py"
+    },
+    {
+      "source": "/admin(.*)",
+      "destination": "backend/backend/wsgi.py"
+    },
+    {
+      "source": "/static/(.*)",
+      "destination": "backend/backend/wsgi.py"
+    },
+    {
+      "source": "/assets/(.*)",
+      "destination": "frontend/assets/$1"
+    },
+    {
+      "source": "/((?!api|admin|static|favicon.ico).*)",
+      "destination": "frontend/index.html"
+    }
+  ]
+}
